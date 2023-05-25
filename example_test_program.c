@@ -12,7 +12,7 @@ int main(void){
     *pid = getpid();
 
     for(EVER){
-        printf("P1 executando...%d\n", getpid());
+        printf("P1 executing...%d\n", getpid());
         sleep(1);
     }
 }
