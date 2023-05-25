@@ -1,8 +1,8 @@
 # Process-Scheduler
 - Runs pseudo-programs through a scheduler. They will be either round robin or real time.
 - The exec.txt file contains a specific format for the programs you want to run: 
-  "Run (program name)" - for Round Robin
-  "Run (program name) I=(start time) D=(execution duration)"
+    - "Run (program name)" - for Round Robin
+    - "Run (program name) I=(start time) D=(execution duration)"
   
 - Start time and duration are in seconds.
 - If you want to run more than 10 programs, alter the constant MAXPROCESSES to your desired value.
