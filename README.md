@@ -1,6 +1,6 @@
 # Process-Scheduler
 
-### To run, compile all the files in projects and your test programs, then execute the interpreter.
+## To run, compile all the files in projects and your test programs, then execute the interpreter.
 
 
 - Runs pseudo-programs through a scheduler. They will be either round robin or real time.
