@@ -2,6 +2,7 @@
 
 ## To run the Process-Scheduler, compile all the files in projects and your test programs, then execute the interpreter.
 
+### Useful info:
 
 - Runs pseudo-programs through a scheduler. They will be either round robin or real time.
 - The exec.txt file contains a specific format for the programs you want to run: 
