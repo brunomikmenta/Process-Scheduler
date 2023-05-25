@@ -13,3 +13,4 @@
 - If you want to run more than 10 programs, alter the constant MAXPROCESSES to your desired value.
 - The pseudo-programs are programs that run indefinitely, printing every one second.
 - You can alter the total run time of the Process-Scheduler by changing the TIMELIMIT (in seconds) constant.
+- Does not handle I/O.
